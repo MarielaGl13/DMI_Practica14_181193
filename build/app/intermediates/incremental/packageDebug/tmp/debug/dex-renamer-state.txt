@@ -1,0 +1,4 @@
+#Mon Oct 23 17:08:37 CST 2023
+base.0=C\:\\Users\\alfre\\OneDrive\\Documentos\\dmi_practica12_181193\\dmi_practica12_181193\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
