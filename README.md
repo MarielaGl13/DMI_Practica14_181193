@@ -10,7 +10,7 @@
 ## Ingeniería en Desarrollo y Gestión de Software
 ## Mariela González López
 ## 10 A
-## Implementación del Poster, titulo, descripción y valoración de Peliculas en detalles
+## Implementación de actores de peliculas y series de Tv
 &nbsp;
 &nbsp;
 |  Características |  Información |
