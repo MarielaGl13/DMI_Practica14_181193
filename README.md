@@ -31,6 +31,8 @@
 
 [![Whats-App-Image-2023-10-25-at-10-29-40.jpg](https://i.postimg.cc/LsBysxMX/Whats-App-Image-2023-10-25-at-10-29-40.jpg)](https://postimg.cc/4KyvLbyk)
 
+[![Whats-App-Image-2023-11-06-at-13-32-38.jpg](https://i.postimg.cc/Y9gkYzRW/Whats-App-Image-2023-11-06-at-13-32-38.jpg)](https://postimg.cc/34KPHpP8)
+
 <br>
 <br>
 <br>
